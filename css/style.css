@@ -66,3 +66,14 @@ img{
     padding: 40px;
     opacity: 0.9;
 }
+/*MEDIA QUERIES*/
+@media(max-width: 800px){
+    #showcase h1{
+    font-size: 30px;
+    }
+}
+@media(max-width: 500px){
+    #showcase h1{
+    padding:  40px 10px;
+    }
+}
