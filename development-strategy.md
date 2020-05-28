@@ -57,7 +57,7 @@ Did not changed css on this user story.
 
 ---
 
-## 2. User story: About Services Cotact Pages
+## 2. User story: About Services Contact Pages
 
 As a user I want to have About , Service and Contact pages
 
@@ -69,13 +69,16 @@ I have created the About , Service and Contact html files
 
 ### HTML
 
-
+For this pages I used the same template page from home page
 Added the same tags  for above for about, services, and contact pages
+I have delet showcase and furtures sections
 
 
 ### CSS
 
 Added width properties for body
+Added css properties for img
+Added css properties for container class
 
 ---
 
