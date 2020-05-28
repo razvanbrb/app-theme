@@ -136,6 +136,20 @@ padding: 10px 0px;
    margin-bottom: 40px; 
 }
 
+/*SERVICES*/
+.services ul li{
+    list-style: none;
+
+
+}
+.services ul li :nth-child(odd){
+    background: #333;
+    color: #fff;
+}
+.services ul li:nth-child(even){
+    background: #56a79a;
+}
+
 
 /*MEDIA QUERIES*/
 @media(max-width: 800px){
