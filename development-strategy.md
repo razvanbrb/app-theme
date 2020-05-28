@@ -1,10 +1,16 @@
 # Development Strategy
 
-> `name-of-project`
+> `app-theme-2`
 
-write a short description of your project:
-- who would want to use it?
+
+ - This is a project is  Responsive website design  tutorial project.
+
+
+ - Anyone who is new in the web development and would want to become a web developer. 
+
 - why would they want to use it?
+
+ - It is very simple and a good start project. It would help students to learn more about HTML, CSS, Flexbogrid.
 
 ## Wireframe
 
@@ -22,27 +28,58 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. User story : Using Flexbox Grid file
 
-__full user story description__
+As a user I want to have a good looking  Responsive website.
+
+I have added Css folder and fonts folder
+I have added style.css file
+I have added flexboxgrid folder [flexboxgrid website](http://flexboxgrid.com/)
+
 
 ### Repo
 
-what branch(es) did you work on?
+This user story was created on a branch "custom-css-home-page"
 
 ### HTML
 
-what did you change in the HTML and why?
+
+Added <title> for the project.
+Added links for refering the flexboxgrid css file
+Added semantic elements <header>, <nav>,<section>,<footer>
+Added flexbox row class one row is splited in 12 colums
+Added all the section for the the home page in the index.html file. The HEADER , SHOWCASE, FEATURES, COMPANY, FOOTER
+Added align properties end, middle.
 
 ### CSS
 
-what did you change in the CSS and why?
+Did not changed css on this user story.
 
-## 2. ...
+---
 
-...
+## 2. User story: About Services Cotact Pages
 
-...
+As a user I want to have About , Service and Contact pages
+
+### Repo
+
+This user story was created on a branch "about-services-contact-pages"
+
+I have created the About , Service and Contact html files
+
+### HTML
+
+
+Added the same tags  for above for about, services, and contact pages
+
+
+### CSS
+
+Added width properties for body
+
+---
+
+
 
 ## Finishing Touches
 
