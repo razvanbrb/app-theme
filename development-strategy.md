@@ -71,7 +71,7 @@ I have created the About , Service and Contact html files
 
 For this pages I used the same template page from home page
 Added the same tags  for above for about, services, and contact pages
-I have delet showcase and furtures sections
+I have delete showcase and futures sections
 
 
 ### CSS
@@ -82,6 +82,32 @@ Added css properties for container class
 
 ---
 
+
+
+## 3. User story: Custom CSS Pages
+
+As a user I want to have nice styiling  in Home , About , Service and Contact pages
+
+### Repo
+
+This user story was created on a branch "custom-css-all-pages"
+
+
+
+### HTML
+
+I have edited some mispeling and addet text for Label
+
+
+
+### CSS
+
+I have added css properties for home page
+I have added css properties for about page
+I have added css properties for service page
+I have added css properties for contact page
+
+---
 
 
 ## Finishing Touches
