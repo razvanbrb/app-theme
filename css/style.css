@@ -115,6 +115,15 @@ padding: 10px 0px;
     list-style: none;
     line-height: 2em;
 }
+#company input[type="text"]{
+    padding: 7px;
+}
+#company button{
+    background: #222;
+    color: #fff;
+    padding: 10px;
+    border: 0;
+}
 
 /*MEDIA QUERIES*/
 @media(max-width: 800px){
