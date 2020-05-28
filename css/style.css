@@ -125,6 +125,12 @@ padding: 10px 0px;
     border: 0;
 }
 
+/*FOOTER*/
+#main-footer{
+    background: #56a79a;
+    color: #fff;
+}
+
 /*MEDIA QUERIES*/
 @media(max-width: 800px){
     #showcase h1{
