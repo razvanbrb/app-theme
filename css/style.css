@@ -131,6 +131,12 @@ padding: 10px 0px;
     color: #fff;
 }
 
+/*PAGE*/
+#page{
+   margin-bottom: 40px; 
+}
+
+
 /*MEDIA QUERIES*/
 @media(max-width: 800px){
     #showcase h1{
