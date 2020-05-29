@@ -121,5 +121,5 @@ I have added css properties for contact page
 
 ## Finishing Touches
 
-- I have edit a complete README file
+- I have created a complete README file [readme](readme.md)
   
