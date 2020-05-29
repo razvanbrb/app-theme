@@ -3,12 +3,7 @@
 > `app-theme-2`
 
 
- - This is a project is  Responsive website design  tutorial project.
-
-
  - Anyone who is new in the web development and would want to become a web developer. 
-
-- why would they want to use it?
 
  - It is very simple and a good start project. It would help students to learn more about HTML, CSS, Flexbogrid.
 
@@ -16,7 +11,9 @@
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe](https://wireframe.cc/pro/pp/b340492d1346971)
+![wireframe](./wireframes/wireframe-app-theme.PNG)
+
+
 
 ## 0. Set-Up
 
@@ -45,10 +42,15 @@ This user story was created on a branch "custom-css-home-page"
 
 
 Added <title> for the project.
+
 Added links for refering the flexboxgrid css file
+
 Added semantic elements <header>, <nav>,<section>,<footer>
+
 Added flexbox row class one row is splited in 12 colums
+
 Added all the section for the the home page in the index.html file. The HEADER , SHOWCASE, FEATURES, COMPANY, FOOTER
+
 Added align properties end, middle.
 
 ### CSS
@@ -70,14 +72,18 @@ I have created the About , Service and Contact html files
 ### HTML
 
 For this pages I used the same template page from home page
+
 Added the same tags  for above for about, services, and contact pages
+
 I have delete showcase and futures sections
 
 
 ### CSS
 
 Added width properties for body
+
 Added css properties for img
+
 Added css properties for container class
 
 ---
@@ -103,8 +109,11 @@ I have edited some mispeling and addet text for Label
 ### CSS
 
 I have added css properties for home page
+
 I have added css properties for about page
+
 I have added css properties for service page
+
 I have added css properties for contact page
 
 ---
@@ -112,8 +121,5 @@ I have added css properties for contact page
 
 ## Finishing Touches
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+- I have edit a complete README file
+  
