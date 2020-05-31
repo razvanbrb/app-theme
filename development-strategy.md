@@ -118,6 +118,34 @@ I have added css properties for contact page
 
 ---
 
+## 4. User story: Validation 
+
+
+As a user I want to see all pages are validated by Markup Validation Service and CSS Validation Service
+
+### Repo
+
+This user story was created on a branch "validation"
+
+
+
+### HTML
+
+I have delleted tag <title>  line 7 in index file 
+
+I have changed h1 to h2 line 41
+
+I deleted section tag line 148 it was a extra line with only a closing </section> 
+
+I have added language english to html tags in index, about, services, contact html files
+
+
+
+### CSS
+
+I have changed #showcase h2 to  #showcase h1.
+
+
 
 ## Finishing Touches
 
